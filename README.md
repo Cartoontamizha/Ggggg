@@ -11,6 +11,10 @@ A google search telegram bot
 
 ---
 
+# Deploy on Heroku
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/rsrBij?referralCode=Oldcartoonstamil )
+
 ## API
 
 https://api.abirhasan.wtf/google
